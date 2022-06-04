@@ -25,6 +25,7 @@ header::after {
 .logo {
   float: left;
   padding: 10px 0;
+  font-size: 20px;
 }
 
 nav {
