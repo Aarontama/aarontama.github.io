@@ -4,6 +4,7 @@ body {
 	background: white;
 	font-family: 'Work Sans', sans-serif;
 	font-weight: 800;
+	text-align: center;
 }
 
 .container {
@@ -12,7 +13,7 @@ body {
 }
 
 header {
-  background: #6c5753;
+  background: white;
 }
 
 header::after {
